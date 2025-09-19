@@ -1,7 +1,0 @@
-{
-  "name": "Real-time QC Inspection App",
-  "description": "An application for supervisors to conduct quality control inspections on jobs and for viewers to see the results in real-time. Supervisors can go through a checklist, add comments, upload photos, and set a final status, with all changes instantly reflected for viewers.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
